@@ -52,3 +52,9 @@ def vypocet_obvodu_telesa(delka, sirka=None):
 delka = 5
 sirka = 3
 print(f"Obvod obdelniku s delkou {delka} a sirkou {sirka} je: {vypocet_obvodu_telesa(delka)}")
+
+# odmocnina
+odmocnina = math.sqrt(256)
+print(f"Odmocnina z 256 je: {odmocnina}")
+
+print(dir(math))
