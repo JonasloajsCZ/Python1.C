@@ -1,10 +1,8 @@
-# Ahoj, funguje to?
-print("Ahoj z Pythonu!")
+# Můj druhý Python projekt
 
-# Matematické výpočty
-vysledek = 10 + 25
-print("Výsledek 10 + 25 je:", vysledek)
+print("Ahoj!")
+print("Zkouším si nový projekt.")
 
-# Proměnně a text
-jmeno = "Jonáš"
-print(f"Projekt vytvořil: {jmeno}")
+x = 10
+y = 10
+print(f"výsledek je: {x + y}")
